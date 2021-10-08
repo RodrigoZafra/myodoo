@@ -30,3 +30,23 @@ mkdir dumps
 ls
 mv /home/dammie/Descargas/backup_db1.gpg dumps/
 exit
+/opt/odoo/dumps
+cd /opt/odoo/dumps
+ls
+cd
+git config --global credential.helper store
+more .gitconfig
+ls -ls
+ls -la
+clear
+nano .gitignore
+git add .
+git commit -am "subiendo la database encriptada"
+git log
+git push origin master
+clear
+
+git push origin master
+clear
+wget --post-data 'master_pwd=123456&name=db1&backup_format=zip' -O ./backup_db1.zip http://localhost:8069/web/database/backup
+exit
