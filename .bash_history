@@ -50,3 +50,18 @@ git push origin master
 clear
 wget --post-data 'master_pwd=123456&name=db1&backup_format=zip' -O ./backup_db1.zip http://localhost:8069/web/database/backup
 exit
+cd /opt/odoo
+git checkout master
+git status
+git add .
+git commit -am "vuelta a master"
+git checkout master
+git branch
+clear
+ls odoo14-custom-addons/
+clear
+exit
+ls odoo14-custom-addons/
+cd Descargas
+cd Descargas/
+exit

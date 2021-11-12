@@ -1,0 +1,13 @@
+
+.s_dynamic [data-url] {
+  cursor: pointer;
+}
+
+.s_dynamic .card-img-top, .s_dynamic .s_latest_posts[data-vcss='001'] .s_latest_posts_card .card .s_latest_posts_post_cover .o_record_cover_container .o_record_cover_image, .s_latest_posts[data-vcss='001'] .s_latest_posts_card .card .s_latest_posts_post_cover .o_record_cover_container .s_dynamic .o_record_cover_image {
+  height: 12rem;
+}
+
+.s_dynamic img {
+  object-fit: scale-down;
+}
+
