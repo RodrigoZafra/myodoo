@@ -65,3 +65,5 @@ ls odoo14-custom-addons/
 cd Descargas
 cd Descargas/
 exit
+nautilus
+exit
