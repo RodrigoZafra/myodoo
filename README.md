@@ -108,6 +108,7 @@ Vamos a descargar la base de datos desde el localhost/8069 y la vamos a encripta
 *gpg -c AssociateEtcEtc.zip*
 
 Nuestra contraseña será '123456'. Si algún delincuente digital está leyendo esto en github le animamos a montar un sistema de gestión empresarial.
+
 ![issue tab](img/stonks.gif)
 
 Copiamos la base de datos a otp/odoo/dumps mediante el comando cp. Visual Studio Code nos pide commit así que se lo vamos a dar. Es importante (lo hemos aprendido con dolor) no actualizar nuestro repositorio en Github desde la terminal y Visual Studio a la vez, pues originamos un problema de permisos que no somos capaces de solucionar.
