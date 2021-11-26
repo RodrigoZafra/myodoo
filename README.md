@@ -5,7 +5,7 @@
 ### Introducción
 Associate es un proyecto que nace para ayudar a asociaciones y colectivos con necesidades organizativas. Creemos firmemente que las nuevas tecnologías pueden ayudar a automatizar y hacer más sencillas y visuales algunas tareas clásicas de una asociación. Gestionar un calendario, informar a los asociados, enviar mensajes por línea interna o realizar una campaña de propaganda pueden ser trabajos más sencillos gracias a un Sistema de Gestión Empresarial como Odoo. Nuestro proyecto está pensado como una adaptación de Odoo a las necesidades más generales del ámbito asociativo, que ejemplificaremos genéricamente en algunos apartados. 
 
-![issue tab](img/integrantes.jpg)
+<img src="img/integrantes.jpg" border="1px solid" width="250"/>
 Aquí vemos a los integrantes del equipo de Associate, Rodrigo y Mario.
 
 ### Primeros pasos
