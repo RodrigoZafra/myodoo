@@ -7,6 +7,7 @@ Associate es un proyecto que nace para ayudar a asociaciones y colectivos con ne
 
 Es importante tener en cuenta que Associate es una organización sin ánimo de lucro cuyo fin es la **instalación de Odoo** para que las asociaciones y colectivos que lo necesiten tengan acceso a nuestra selección de módulos. Creemos que los elegidos son una buena base porque tienen el corpus fundamental de las labores asociativas (gestión de eventos, calendario, tareas...) pero cuentan con lo básico para desarrollar alguna actividad económica (hemos puesto el ejemplo de la venta de camisetas). 
 
+
 <img src="img/integrantes.jpg" border="1px solid" width="250"/>
 *Aquí vemos a los integrantes del equipo de Associate, Rodrigo y Mario.*
 
