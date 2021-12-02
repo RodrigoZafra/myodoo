@@ -9,7 +9,7 @@ Es importante tener en cuenta que Associate es una organización sin ánimo de l
 
 
 <img src="img/integrantes.jpg" border="1px solid" width="250"/>
-*Aquí vemos a los integrantes del equipo de Associate, Rodrigo y Mario.*
+<i>Aquí vemos a los integrantes del equipo de Associate, Rodrigo y Mario.</i>
 
 ### Primeros pasos
 Creamos una base de datos e instalamos los módulos del sitio web y del proyecto (por el momento).
