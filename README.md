@@ -73,12 +73,12 @@ Odoo nos permite organizar nuestros proyectos por columnas y subtareas. A cada t
 ![issue tab](img/proyecto_dia_libro.png)
 
 # 3. Definir productos o servicios
-Vamos a situarnos en la aplicación de Ventas, en el apartado de productos. Siguiendo con el ejemplo asociativo, hemos decidido vender una serie de camisetas con fines solidarios. Para ello vamos a crear un producto de nombre "camiseta solidaria" que va a tener un P.V.P de 5 euros. Ahora podemos ver cómo las camisetas están junto a resto de productos que Odoo muestra como ejemplos. Podemos asociar al producto una imagen para facilitar el trabajo, así como añadir los detalles necesarios. 
+Vamos a situarnos en la aplicación de Ventas, en el apartado de productos. Siguiendo con el ejemplo asociativo, hemos decidido vender una serie de camisetas con fines solidarios. Para ello vamos a crear un producto de nombre "camiseta solidaria" que va a tener un P.V.P de 5 euros. Podemos asociar al producto una imagen para facilitar el trabajo, así como añadir los detalles necesarios. 
 
 ![issue tab](img/producto_camisetas.png)
 
 # 4. Define una agenda en el calendario
-Ahora accedemos al calendario y creamos una reunión para el día 15, en este caso va a ser una reunión con la asamblea local. Lo importante es tener en cuenta que Odoo nos permite crear eventos con varios niveles de detalle, indicando la fecha y la hora de forma que podamos verlos en contexto en un calendario. 
+El calendario es una de los módulos centrales del proyecto. Accedemos a él y creamos una reunión para el día 15, en este caso va a ser una reunión con la asamblea local. Lo importante es tener en cuenta que Odoo nos permite crear eventos con varios niveles de detalle, indicando la fecha y la hora de forma que podamos verlos en contexto en el calendario. 
 
 ![issue tab](img/reunion_calendario.png)
 
@@ -94,14 +94,14 @@ Vamos a proporcionarle a nuestros usuarios una forma de comunicarse dentro de lo
 
 Los canales son espacios donde varios usuarios pueden tener un chat común, igual que en un grupo de Whatsapp o Discord, de manera que puedan discutir colaborativamente sobre problemáticas que les conciernen a todos. Existen canales privados que sólo pueden ser vistos por aquellas personas que están dentro. Nosotros hemos creado un canal general para todos los miembros de la asociación, uno abierto para la tesorería y uno privado para la junta directiva como ejemplo.
 
-Existe, no obstante, la posibilidad de escribir de forma privada a un sólo usuario y mantener la comunicación con él a través de este módulo en el apartado de Mensajes directos. Puedes invitar a nuevos usuarios y filtrar  mensajes.
+Existe, no obstante, la posibilidad de escribir de forma privada a un sólo usuario y mantener la comunicación con él a través de este módulo en el apartado de Mensajes directos. Puedes invitar a nuevos usuarios y filtrar mensajes.
 
 ![issue tab](img/conversaciones.png)
 
 # 7. Gestiona contactos y otros datos
-Podemos gestionar nuestros contactos a través del módulo específico que nos ofrece Odoo. Una vez instalamos la aplicación podemos ver una libreta con los contactos que hemos ido creando de una forma u otra hasta el momento. Al haber realizado la tarea La Taberna de Moe tenemos varios ejemplos que el módulo ha asociado como contactos (Barnie, la empresa Duff, el Administrador de Odoo). 
+Podemos gestionar nuestros contactos a través del módulo específico que nos ofrece Odoo. Una vez instalamos la aplicación podemos ver una libreta con los contactos que hemos ido creando de una forma u otra hasta el momento. Podemos modificar o eliminar los contactos si atendemos a sus diversas <i>constraints</i>.
 
-Ahora vamos a crear un contacto siguiendo el ejemplo de los otros apartados. En el caso de nuestra asociación de ejemplo, vamos a registrar el proveedor al que vamos a encargar nuestras camisetas. En nuestro caso vamos a citar a Ecamisetas.com que es el primero en aparecer en el navegador y que además aparece como sugerencia en el buscador de Odoo. Nos coloca el logo automática. Rellenamos los campos que faltan y ya tenemos nuestro contacto.
+Ahora vamos a crear un contacto siguiendo el ejemplo de los otros apartados. En el caso de nuestra asociación de ejemplo, vamos a registrar el proveedor al que vamos a encargar nuestras camisetas. En nuestro caso vamos a citar a Ecamisetas.com que es el primero en aparecer en el navegador y que además aparece como sugerencia en el buscador de Odoo. Nos coloca el logo automáticamente. Rellenamos los campos que faltan y ya tenemos nuestro contacto.
 
 ![issue tab](img/contacto_camisetas.png)
 
