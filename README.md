@@ -105,7 +105,8 @@ Ahora vamos a crear un contacto siguiendo el ejemplo de los otros apartados. En 
 
 ![issue tab](img/contacto_camisetas.png)
 
-### Clonación del proyecto en VSCode
+# Clonación del proyecto en VSCode
+<hr>
 Realizamos un fork y lo introducimos en Visual Studio Code, ubicándolo donde queramos en nuestro sistema de ficheros para editarlo. Vamos a utilizar el sistema markdown para documentar. Este documento es fruto de este apartado. ¿Suficientemente recursivo?
 
 El comando que vamos a utilizar Visual Studio Code con permisos de edición será:
