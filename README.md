@@ -10,11 +10,11 @@ Aquí vemos a los integrantes del equipo de Associate, Rodrigo y Mario.
 
 ### Primeros pasos
 Creamos una base de datos e instalamos los módulos del sitio web y del proyecto (por el momento).
-Para crear el sitio web y dotarle de personalización podemos instalar un tema, que es el siguiente paso que vamos a dar.
+Para crear el sitio web y dotarle de personalización podemos instalar un tema, que es lo siguiente que vamos a hacer.
 
 ### Instalar un tema
 Para ello, entramos en la base de datos como administradores para tener un menú enriquecido.
-Descargamos un tema gratuito desde la web, por ejemplo de "INTRODUCIR WEB".
+Descargamos un tema gratuito desde la ![web de temas de Odoo](https://apps.odoo.com/apps/themes), que tiene una amplia gama de opciones, desde gratuitas a de pago.
 Nos metemos desde el usuario de Odoo en la línea de comandos y vamos a addons, y comandamos:
 sudo unzip ~/Descargas/tema.zip 
     Tener en cuenta que el ~ es como llamar al home del usuario actual
