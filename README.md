@@ -38,14 +38,12 @@ en funcionamiento.
 
 
 ### Creación del sitio web
-Vamos a crear el sitio web de Associate para mostrar las posibilidades que ofrece Odoo para relacionar la actividad organizativa con la difusión y la accesibilidad. Cualquier organización que utilice nuestro Odoo podrá tener una página web propia de fácil creación.
-
-Teniendo en cuenta que vamos a ayudar a asociaciones a realizar sus gestiones, vamos a crear tres apartados en la web y la página de inicio. Desde el inicio podemos acceder a los otros tres. Es necesario tener en cuenta que Associate no se encarga de ofrecer un servicio externo como si fuese una empresa a la que se le compran productos o encargan servicios. Associate ayuda a las asociaciones a gestionar su propio sistema Odoo con los módulos que hemos decidido instalarles.
+Vamos a crear el sitio web de Associate para mostrar las posibilidades que ofrece Odoo para relacionar la actividad organizativa con la difusión y la accesibilidad. Cualquier organización que utilice nuestro Odoo podrá tener una página web propia de fácil creación. Teniendo en cuenta que vamos a ayudar a asociaciones a realizar sus gestiones, vamos a crear tres apartados en la web y la página de inicio. Desde el inicio podemos acceder a los otros tres.
 
 ![issue tab](img/inicio.png)
 
 1.  Un apartado de contacto.
-    Para que los usuario se pongan en contacto con nosotros en caso de problemas o dudas. En este apartado hemos creado un formulario para las exposiciones y mensajes, y mostramos la ubicación de nuestra empresa (Albacete) en el lateral.
+    Para que los usuario se pongan en contacto con las asociaciones en caso de problemas o dudas. En este apartado hemos creado un formulario para las exposiciones y mensajes, y mostramos la ubicación de nuestra empresa (Albacete) en el lateral. Es sólo un ejemplo, pues los usuarios podrán subir sus ubicaciones o las imágenes que decidan.
 
     ![issue tab](img/contactenos.png)
 
@@ -60,8 +58,7 @@ Teniendo en cuenta que vamos a ayudar a asociaciones a realizar sus gestiones, v
     ![issue tab](img/calendario_de_eventos.png)
 
 Todos los cambios que estamos realizando en nuestra web a nivel de código (HTML, SCSS y JavaScrypt) están indicados con la siguiente
-nomenclatura: **dam2_roma_nombregenérico**. "roma" indica Rodrigo y Mario, los autores de esta práctica, y en caso de encontrarse las etiquetas
-*ro* o *ma* separadas, esto indicaría que sólo uno de ellos habría realizado ese avance. No va a ser lo común.
+nomenclatura: **dam2_roma_nombregenérico**. "roma" indica Rodrigo y Mario, los autores de esta práctica.
 
 Lo primero ha sido añadir y cambiar la página a través de las funcionalidades de edición que nos proporciona el propio Odoo. Cuando la capacidad 
 de personalización nos ha limitado, hemos tocado algunas partes del código.
