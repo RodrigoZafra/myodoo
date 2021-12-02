@@ -8,6 +8,8 @@ Associate es un proyecto que nace para ayudar a asociaciones y colectivos con ne
 <img src="img/integrantes.jpg" border="1px solid" width="250"/>
 Aquí vemos a los integrantes del equipo de Associate, Rodrigo y Mario.
 
+Es importante tener en cuenta que Associate es una organización sin ánimo de lucro cuyo fin es la **instalación de Odoo** para que las asociaciones y colectivos que lo necesiten tengan acceso a nuestra selección de módulos. Creemos que los elegidos son una buena base porque tienen el corpus fundamental de las labores asociativas (gestión de eventos, calendario, tareas...) pero cuentan con lo básico para desarrollar alguna actividad económica (hemos puesto el ejemplo de la venta de camisetas). 
+
 ### Primeros pasos
 Creamos una base de datos e instalamos los módulos del sitio web y del proyecto (por el momento).
 Para crear el sitio web y dotarle de personalización podemos instalar un tema, que es lo siguiente que vamos a hacer.
@@ -24,18 +26,19 @@ Tener en cuenta que el ~ es como llamar al home del usuario actual.
 
     sudo chown odoo:odoo -R tema/
 
-Le acabamos de dar propiedad a Odoo los permisos sobre el tema de forma recursiva.
+Le acabamos de dar al usuario Odoo los permisos sobre el tema de forma recursiva, para afectar a todo el directorio.
 
-Ahora vamos a Aplicaciones > Actualizar lista de aplicaciones.
-Vamos al Sitio Web, escogemos un tema y ya aparece nuestro tema, lo escogemos para aplicarlo.
-El tema ya está instalado.
+Ahora vamos a ir a Aplicaciones > Actualizar lista de aplicaciones.
+Desde el Sitio Web vamos a escoger un tema y vemos cómo aparece el que hemos descargado, lo escogemos para aplicarlo.
+Ahora el tema ya está instalado.
+
 En las opciones de edición bajamos y clickamos en switch theme, nos lleva a una página y comprobamos que tenemos nuestro tema nuevo 
 en funcionamiento.
 
 
 ### Creación del sitio web
-Vamos a crear nuestro sitio web, Associate. Teniendo en cuenta que vamos a ayudar a asociaciones a realizar sus gestiones, vamos a
-crear tres apartados en la web y la página de inicio. Desde el inicio podemos acceder a los otros tres.
+Vamos a crear el sitio web de Associate, como un ejemplo (ver introducción). Teniendo en cuenta que vamos a ayudar a asociaciones a realizar sus gestiones, vamos a
+crear tres apartados en la web y la página de inicio. Desde el inicio podemos acceder a los otros tres. Es necesario tener en cuenta que Associate no se encarga de ofrecer un servicio externo como si fuese una empresa a la que se le compran productos o encargan servicios. Associate ayuda a las asociaciones a gestionar su propio sistema Odoo con los módulos que hemos decidido instalarles.
 
 ![issue tab](img/inicio.png)
 
