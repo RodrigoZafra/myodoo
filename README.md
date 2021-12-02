@@ -38,8 +38,9 @@ en funcionamiento.
 
 
 ### Creación del sitio web
-Vamos a crear el sitio web de Associate, como un ejemplo (ver introducción). Teniendo en cuenta que vamos a ayudar a asociaciones a realizar sus gestiones, vamos a
-crear tres apartados en la web y la página de inicio. Desde el inicio podemos acceder a los otros tres. Es necesario tener en cuenta que Associate no se encarga de ofrecer un servicio externo como si fuese una empresa a la que se le compran productos o encargan servicios. Associate ayuda a las asociaciones a gestionar su propio sistema Odoo con los módulos que hemos decidido instalarles.
+Vamos a crear el sitio web de Associate para mostrar las posibilidades que ofrece Odoo para relacionar la actividad organizativa con la difusión y la accesibilidad. Cualquier organización que utilice nuestro Odoo podrá tener una página web propia de fácil creación.
+
+Teniendo en cuenta que vamos a ayudar a asociaciones a realizar sus gestiones, vamos a crear tres apartados en la web y la página de inicio. Desde el inicio podemos acceder a los otros tres. Es necesario tener en cuenta que Associate no se encarga de ofrecer un servicio externo como si fuese una empresa a la que se le compran productos o encargan servicios. Associate ayuda a las asociaciones a gestionar su propio sistema Odoo con los módulos que hemos decidido instalarles.
 
 ![issue tab](img/inicio.png)
 
