@@ -105,33 +105,43 @@ Ahora vamos a crear un contacto siguiendo el ejemplo de los otros apartados. En 
 
 ![issue tab](img/contacto_camisetas.png)
 
-# Clonación del proyecto en VSCode
-<hr>
-Realizamos un fork y lo introducimos en Visual Studio Code, ubicándolo donde queramos en nuestro sistema de ficheros para editarlo. Vamos a utilizar el sistema markdown para documentar. Este documento es fruto de este apartado. ¿Suficientemente recursivo?
+# 8. Clonación del proyecto en VSCode
+Realizamos un fork y lo introducimos en <i>Visual Studio Code</i>, ubicándolo donde queramos en nuestro sistema de ficheros para editarlo. Vamos a utilizar el sistema markdown para documentar este mismo README.
 
 El comando que vamos a utilizar Visual Studio Code con permisos de edición será:
-*sudo code /opt/odooo --user-data-dir="." --no-sandbox*
+
+    sudo code /opt/odooo --user-data-dir="." --no-sandbox
 
 Vamos a descargar la base de datos desde el localhost/8069 y la vamos a encriptar con gpg mediante el siguiente comando:
-*gpg -c AssociateEtcEtc.zip*
+
+    gpg -c AssociateEtcEtc.zip
 
 Nuestra contraseña será '123456'. Si algún delincuente digital está leyendo esto en github le animamos a montar un sistema de gestión empresarial.
 
 ![issue tab](img/stonks.gif)
 
-Copiamos la base de datos a otp/odoo/dumps mediante el comando cp. Visual Studio Code nos pide commit así que se lo vamos a dar. Es importante (lo hemos aprendido con dolor) no actualizar nuestro repositorio en Github desde la terminal y Visual Studio a la vez, pues originamos un problema de permisos que no somos capaces de solucionar.
+Copiamos la base de datos a **otp/odoo/dumps** mediante el comando **cp**. Visual Studio Code nos pide commit así que lo hacemos. Es importante (lo hemos aprendido con dolor) no actualizar nuestro repositorio en Github desde la terminal y Visual Studio a la vez, pues originamos un problema de permisos que no somos capaces de solucionar.
 
-Los seguidos para realizar este proyecto colaborativo en Github son los siguientes: 
+Los pasos seguidos para realizar este proyecto colaborativo en Github son los siguientes: 
 
-**Paso 1:** Usuario 1 sube a Github el repositorio y da permiso a Usuario 2 como colaborador.
+**Paso 1:** 
+Usuario 1 sube a Github el repositorio y da permiso a Usuario 2 como colaborador.
 
-**Paso 2:** Usuario 2 acepta y clona el repositorio de Usuario 1.
+**Paso 2:** 
+Usuario 2 acepta y clona el repositorio de Usuario 1.
 
-**Paso 3:** Crea una rama nueva (mejor el nombre de la funcionalidad).
+**Paso 3:** 
+Crea una rama nueva (mejor el nombre de la funcionalidad).
 
-**Paso 4:** Una vez hecha hacemos un git push nombre de la rama.
+**Paso 4:** 
+Una vez hecha hacemos un git push nombre de la rama.
 
-**Paso 5:** El Usuario 1 va a hacer pull para unirlo a proyecto. No debería haber un conflicto. Si hace merge se unen las ramas. 
+**Paso 5:** 
+El Usuario 1 va a hacer pull para unirlo a proyecto. No debería haber un conflicto. Si hace merge se unen las ramas. 
 
 Si queremos mantener datos fuera del repositorio los meteremos dentro de la carpeta .Gitignore.
-Para evitar que estos sean espiados utilizaremos: git rm -r -cached.
+Para evitar que estos sean espiados utilizaremos: 
+
+    git rm -r -cached.
+Muchas gracias por seguir nuestro proyecto.
+Un saludo.
