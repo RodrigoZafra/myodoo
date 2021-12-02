@@ -122,27 +122,24 @@ Nuestra contraseña será '123456'. Si algún delincuente digital está leyendo 
 
 Copiamos la base de datos a **otp/odoo/dumps** mediante el comando **cp**. Visual Studio Code nos pide commit así que lo hacemos. Es importante (lo hemos aprendido con dolor) no actualizar nuestro repositorio en Github desde la terminal y Visual Studio a la vez, pues originamos un problema de permisos que no somos capaces de solucionar.
 
+<hr>
 Los pasos seguidos para realizar este proyecto colaborativo en Github son los siguientes: 
 
-## Paso 1
-
+### Paso 1
 Usuario 1 sube a Github el repositorio y da permiso a Usuario 2 como colaborador.
 
-## Paso 2
-
+### Paso 2
 Usuario 2 acepta y clona el repositorio de Usuario 1.
 
-## Paso 3
-
+### Paso 3
 Crea una rama nueva (mejor el nombre de la funcionalidad).
 
-## Paso 4
-
+### Paso 4
 Una vez hecha hacemos un git push nombre de la rama.
 
-## Paso 5
-
+### Paso 5
 El Usuario 1 va a hacer pull para unirlo a proyecto. No debería haber un conflicto. Si hace merge se unen las ramas. 
+<hr>
 
 Si queremos mantener datos fuera del repositorio los meteremos dentro de la carpeta .Gitignore.
 Para evitar que estos sean espiados utilizaremos: 
