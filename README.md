@@ -124,19 +124,19 @@ Copiamos la base de datos a **otp/odoo/dumps** mediante el comando **cp**. Visua
 
 Los pasos seguidos para realizar este proyecto colaborativo en Github son los siguientes: 
 
-**Paso 1:** 
+##Paso 1
 Usuario 1 sube a Github el repositorio y da permiso a Usuario 2 como colaborador.
 
-**Paso 2:** 
+##Paso
 Usuario 2 acepta y clona el repositorio de Usuario 1.
 
-**Paso 3:** 
+##Paso
 Crea una rama nueva (mejor el nombre de la funcionalidad).
 
-**Paso 4:** 
+##Paso
 Una vez hecha hacemos un git push nombre de la rama.
 
-**Paso 5:** 
+##Paso
 El Usuario 1 va a hacer pull para unirlo a proyecto. No debería haber un conflicto. Si hace merge se unen las ramas. 
 
 Si queremos mantener datos fuera del repositorio los meteremos dentro de la carpeta .Gitignore.
