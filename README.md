@@ -14,7 +14,7 @@ Para crear el sitio web y dotarle de personalización podemos instalar un tema, 
 
 ### Instalar un tema
 Para ello, entramos en la base de datos como administradores para tener un menú enriquecido.
-Descargamos un tema gratuito desde la ![web de temas de Odoo](https://apps.odoo.com/apps/themes), que tiene una amplia gama de opciones, desde gratuitas a de pago.
+Descargamos un tema gratuito desde la [web de temas de Odoo](https://apps.odoo.com/apps/themes), que tiene una amplia gama de opciones, desde gratuitas a de pago.
 Nos metemos desde el usuario de Odoo en la línea de comandos y vamos a addons, y comandamos:
 sudo unzip ~/Descargas/tema.zip 
     Tener en cuenta que el ~ es como llamar al home del usuario actual
